@@ -1,0 +1,24 @@
+#heading {
+    margin: auto;
+    background-color: brown;
+    color: white;
+    width: 80%;
+    text-align: center;
+    font-weight: bold;
+}
+
+#form-container {
+    padding-top:20px;
+}
+
+.card {
+    margin: auto;
+    width: 80%;
+    /* background-color: blue; */
+ }
+
+ .card-header {
+     background-color:blue;
+     color: white;
+     font-weight: bold;
+ }
